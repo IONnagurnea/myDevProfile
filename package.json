@@ -1,5 +1,5 @@
 {
-  "name": "next_portoflio_x",
+  "name": "next_portoflio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.0.6",
+    "next": "9.5.5",
     "next-themes": "0.0.10",
     "react": "17.0.1",
     "react-dom": "17.0.1",
