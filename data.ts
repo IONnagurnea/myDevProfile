@@ -33,7 +33,7 @@ export const services: Service[] = [
   {
     Icon: FaDatabase,
     title: "Databases",
-    about: "Using SQl and Non-sql databases as <b>PostgreSQL</b> and <b>MongoDb</b>",
+    about: "Using SQL and Non-sql databases as <b>PostgreSQL</b> and <b>MongoDb</b>",
   },
   {
     Icon: AiOutlineCloudServer,

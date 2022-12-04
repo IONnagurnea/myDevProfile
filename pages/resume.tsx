@@ -21,6 +21,17 @@ const Resume = () => {
               Designing and building SPAs with PERN and MERN Stacks.
             </p>
           </div>
+          <div className="">
+            <h5 className="my-2 text-xl font-bold">
+              BSc (Hons) Finance, Investment and Risk
+            </h5>
+            <p className="flex items-center justify-start gap-1 font-semibold">
+              <span>The London Institute of Banking and Finance (2017-2020)</span>
+            </p>
+            <p className="my-3">
+              Degree achieved 2:1.
+            </p>
+          </div>
         </div>
         <div>
           <h5 className="my-3 text-2xl font-bold">Experience</h5>
@@ -28,6 +39,11 @@ const Resume = () => {
             <h5 className="my-2 text-xl font-bold">Web developer</h5>
             <p className="font-semibold">PetLove</p>
             <p className="my-3">My personal website</p>
+          </div>
+          <div className="py-4">
+            <h5 className="my-2 text-xl font-bold">Financial Accountant <br/> <span className="font-normal">(January 2020-present)</span></h5>
+            <p className="font-semibold">Self-employed</p>
+            <p className="my-3">Accounting services for self-employers and partnerships</p>
           </div>
         </div>
       </div>
