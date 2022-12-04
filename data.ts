@@ -204,5 +204,15 @@ export const projects: IProject[] = [
       "Serching songs from spotify and adding them to a customize playlist ",
     key_techs: ["React", "JavaScript", "CSS", "Spotify APIs" ],
   },
+  {
+    name: "Server Side Redering App",
+    image_path: "/images/serverside.png",
+    deployed_url: "https://serversiderendering-ion.onrender.com/",
+    github_url: "https://github.com/IONnagurnea/serverSideRendering",
+    category: ["javaScript", "node"],
+    description:
+      "App that use server side rendering with sharing content for both server and client",
+    key_techs: ["JavaScript", "Node.js", "Github API" ],
+  },
 
 ];
