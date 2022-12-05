@@ -1,6 +1,4 @@
-import {
-  NextPage,
-} from "next";
+import { NextPage } from "next";
 import ServiceCard from "../components/ServiceCard";
 import { services } from "../data";
 
@@ -12,7 +10,7 @@ const About: NextPage = () => {
     <div className="flex flex-col flex-grow px-6 pt-1 ">
       <h6 className="my-3 text-base font-medium">
         With one year experience as a Web Developer I am looking for a new opportunity to 
-        develop futher and learn new things by contributing, designing and developing new wonderful web applications. 
+        develop further and learn new things by contributing, designing and developing new wonderful web applications. 
       </h6>
       <div
         className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100 "
